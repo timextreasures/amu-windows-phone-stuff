@@ -1,0 +1,351 @@
+c:\users\armujune\documents\visual studio 2010\Projects\E_Bible\E_Bible\Bin\Debug\ApplicationIcon.png
+c:\users\armujune\documents\visual studio 2010\Projects\E_Bible\E_Bible\Bin\Debug\Background.png
+c:\users\armujune\documents\visual studio 2010\Projects\E_Bible\E_Bible\Bin\Debug\E_Bible.dll
+c:\users\armujune\documents\visual studio 2010\Projects\E_Bible\E_Bible\Bin\Debug\E_Bible.pdb
+c:\users\armujune\documents\visual studio 2010\Projects\E_Bible\E_Bible\obj\Debug\E_Bible.csprojResolveAssemblyReference.cache
+c:\users\armujune\documents\visual studio 2010\Projects\E_Bible\E_Bible\obj\Debug\App.g.i.cs
+c:\users\armujune\documents\visual studio 2010\Projects\E_Bible\E_Bible\obj\Debug\MainPage.g.i.cs
+c:\users\armujune\documents\visual studio 2010\Projects\E_Bible\E_Bible\obj\Debug\E_Bible.g.resources
+c:\users\armujune\documents\visual studio 2010\Projects\E_Bible\E_Bible\obj\Debug\E_Bible.dll
+c:\users\armujune\documents\visual studio 2010\Projects\E_Bible\E_Bible\obj\Debug\E_Bible.pdb
+c:\users\armujune\documents\visual studio 2010\Projects\E_Bible\E_Bible\Bin\Debug\AppManifest.xaml
+c:\users\armujune\documents\visual studio 2010\Projects\E_Bible\E_Bible\Bin\Debug\E_Bible.xap
+c:\users\armujune\documents\visual studio 2010\Projects\E_Bible\E_Bible\obj\Debug\XapCacheFile.xml
+c:\users\armujune\documents\visual studio 2010\Projects\E_Bible\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers02\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers02\E_Bible\Bin\Debug\Background.png
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers02\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers02\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers02\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers02\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers02\E_Bible\obj\Debug\E_Bible.csprojResolveAssemblyReference.cache
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers02\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers02\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers02\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers02\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers02\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers02\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers02\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers03\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers03\E_Bible\Bin\Debug\Background.png
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers03\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers03\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers03\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers03\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers03\E_Bible\obj\Debug\E_Bible.csprojResolveAssemblyReference.cache
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers03\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers03\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers03\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers03\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers03\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers03\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers03\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers04\E_Bible\obj\Debug\E_Bible.csprojResolveAssemblyReference.cache
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers04\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers04\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers04\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers04\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers04\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers04\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers04\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers04\E_Bible\Bin\Debug\Background.png
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers04\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers04\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers04\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers04\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\armujune\Documents\Visual Studio 2010\Projects\E_Bible_vers04\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers05\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers05\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers05\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers05\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers05\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers05\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers05\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers05\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers05\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers05\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers05\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers05\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers05\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers05\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers06\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers07\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers08\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers09\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers10\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers11\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers12\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers13\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers14\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers15\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers16\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers17 - BackGrndPic-Centering-Glossary\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Continuing Branch 1 - copy from v17\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\Bin\Debug\Background.png
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\Bin\Debug\HtmlAgilityPack.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\Bin\Debug\HtmlAgilityPack.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\arto.i.mujunen\Documents\Visual Studio 2010\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\E_Bible.csprojResolveAssemblyReference.cache
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\Bin\Debug\Background.png
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\App.g.cs
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\MainPage.g.cs
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\PageTurnerPage.g.cs
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers19 - Cleaned official version\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers20 - Few fixes\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers20 - Few fixes\E_Bible\Bin\Debug\Background.png
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers20 - Few fixes\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers20 - Few fixes\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers20 - Few fixes\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers20 - Few fixes\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers20 - Few fixes\E_Bible\obj\Debug\E_Bible.csprojResolveAssemblyReference.cache
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers20 - Few fixes\E_Bible\obj\Debug\App.g.cs
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers20 - Few fixes\E_Bible\obj\Debug\MainPage.g.cs
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers20 - Few fixes\E_Bible\obj\Debug\PageTurnerPage.g.cs
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers20 - Few fixes\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers20 - Few fixes\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers20 - Few fixes\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\ArtsiM\Documents\Visual Studio 2012\Projects\E_Bible_vers20 - Few fixes\E_Bible\obj\Debug\XapCacheFile.xml
+C:\Users\Arto-Tania\Documents\Visual Studio 2010\Projects\E_Bible_vers20 - Few last fixes\E_Bible\Bin\Debug\ApplicationIcon.png
+C:\Users\Arto-Tania\Documents\Visual Studio 2010\Projects\E_Bible_vers20 - Few last fixes\E_Bible\Bin\Debug\Background.png
+C:\Users\Arto-Tania\Documents\Visual Studio 2010\Projects\E_Bible_vers20 - Few last fixes\E_Bible\Bin\Debug\E_Bible.dll
+C:\Users\Arto-Tania\Documents\Visual Studio 2010\Projects\E_Bible_vers20 - Few last fixes\E_Bible\Bin\Debug\E_Bible.pdb
+C:\Users\Arto-Tania\Documents\Visual Studio 2010\Projects\E_Bible_vers20 - Few last fixes\E_Bible\Bin\Debug\AppManifest.xaml
+C:\Users\Arto-Tania\Documents\Visual Studio 2010\Projects\E_Bible_vers20 - Few last fixes\E_Bible\Bin\Debug\E_Bible.xap
+C:\Users\Arto-Tania\Documents\Visual Studio 2010\Projects\E_Bible_vers20 - Few last fixes\E_Bible\obj\Debug\E_Bible.csprojResolveAssemblyReference.cache
+C:\Users\Arto-Tania\Documents\Visual Studio 2010\Projects\E_Bible_vers20 - Few last fixes\E_Bible\obj\Debug\App.g.i.cs
+C:\Users\Arto-Tania\Documents\Visual Studio 2010\Projects\E_Bible_vers20 - Few last fixes\E_Bible\obj\Debug\MainPage.g.i.cs
+C:\Users\Arto-Tania\Documents\Visual Studio 2010\Projects\E_Bible_vers20 - Few last fixes\E_Bible\obj\Debug\PageTurnerPage.g.i.cs
+C:\Users\Arto-Tania\Documents\Visual Studio 2010\Projects\E_Bible_vers20 - Few last fixes\E_Bible\obj\Debug\E_Bible.g.resources
+C:\Users\Arto-Tania\Documents\Visual Studio 2010\Projects\E_Bible_vers20 - Few last fixes\E_Bible\obj\Debug\E_Bible.dll
+C:\Users\Arto-Tania\Documents\Visual Studio 2010\Projects\E_Bible_vers20 - Few last fixes\E_Bible\obj\Debug\E_Bible.pdb
+C:\Users\Arto-Tania\Documents\Visual Studio 2010\Projects\E_Bible_vers20 - Few last fixes\E_Bible\obj\Debug\XapCacheFile.xml
